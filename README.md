@@ -4,7 +4,10 @@ The _Emotives Project_ is a set of tools, which allow you to build your own real
 
 START HERE
 
-This project is a companion to its [sister](https://github.com/samuncler/emotives-soundnet) project.
+This project is a companion to:
+
+* its [sister](https://github.com/samuncler/emotives-soundnet) project
+* another [way](https://github.com/samuncler/emotive-analyzer)
 
 ## Abstract
 
