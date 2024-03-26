@@ -2,6 +2,10 @@
 
 The _Emotives Project_ is a set of tools, which allow you to build your own real-time emotion recognizer based on acoustic properties of speech and *not* that of word information.
 
+## Abstract
+
+Automatic detection and interpretation of social signals carried by voice, gestures, mimics, etc. will play a key-role for next-generation interfaces as it paves the way towards a more intuitive and natural human-computer interaction. The paper at hand introduces Social Signal Interpretation (SSI), a framework for real-time recognition of social signals. SSI supports a large range of sensor devices, filter and feature algorithms, as well as, machine learning and pattern recognition tools. It encourages developers to add new components using SSI's C++ API, but also addresses front end users by offering an XML interface to build pipelines with a text editor. SSI is freely available under GPL at [open-ssi](http://openssi.net).
+
 ## Platform
 
 Python
@@ -10,7 +14,9 @@ Python
 
 With [Visual Studio 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685), run `install.cmd` to download core binaries and install an embedded version of Python.
 
-If you plan to extract SoundNet features, you will also have to execute `install_tensorflow.cmd` and download the file [sound8.npy](https://drive.google.com/uc?export=download&id=0B9wE6h4m--wjR015M1RLZW45OEU) into the `chains` folder.
+If you plan to extract SoundNet features, you will also have to execute `install_tensorflow.cmd` and download the file [sound8.npy](https://drive.google.com/drive/folders/1zjNiuLgZ1cjCzF80P4mlYe4KSGGOFlta) into the `chains` folder.
+
+For convenience, they are also found [here](https://drive.proton.me/urls/Z2GZEEEGVM#rZ1GwrADwlaV).
 
 ## Documentation
 
