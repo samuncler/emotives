@@ -2,6 +2,8 @@
 
 The _Emotives Project_ is a set of tools, which allow you to build your own real-time emotion recognizer based on acoustic properties of speech and *not* that of word information.
 
+This project is a companion to its [sister](https://github.com/samuncler/emotives-soundnet) project.
+
 ## Abstract
 
 Automatic detection and interpretation of social signals carried by voice, gestures, mimics, etc. will play a key-role for next-generation interfaces as it paves the way towards a more intuitive and natural human-computer interaction. The paper at hand introduces Social Signal Interpretation (SSI), a framework for real-time recognition of social signals. SSI supports a large range of sensor devices, filter and feature algorithms, as well as, machine learning and pattern recognition tools. It encourages developers to add new components using SSI's C++ API, but also addresses front end users by offering an XML interface to build pipelines with a text editor. SSI is freely available under GPL at [open-ssi](http://openssi.net).
