@@ -2,6 +2,8 @@
 
 The _Emotives Project_ is a set of tools, which allow you to build your own real-time emotion recognizer based on acoustic properties of speech and *not* that of word information.
 
+START HERE
+
 This project is a companion to its [sister](https://github.com/samuncler/emotives-soundnet) project.
 
 ## Abstract
