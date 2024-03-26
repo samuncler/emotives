@@ -1,24 +1,22 @@
-# ![alt text](https://github.com/hcmlab/emovoice/raw/master/pics/emovoice_icon.png)
+## A study on emotives
 
+The _Emotives Project_ is a set of tools, which allow you to build your own real-time emotion recognizer based on acoustic properties of speech (not using word information).
 
+## Platform
 
-EmoVoice is a set of tools, which allow you to build your own real-time emotion recognizer based on acoustic properties of speech (not using word information).
+Python
 
-# Platform
+## Installation
 
-Windows
-
-# Installation
-
-Make sure [Visual Studio 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685) is installed on your machine. Then run `install.cmd` to download core binaries and install an embedded version of Python.
+With [Visual Studio 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685), run `install.cmd` to download core binaries and install an embedded version of Python.
 
 If you plan to extract SoundNet features, you will also have to execute `install_tensorflow.cmd` and download the file [sound8.npy](https://drive.google.com/uc?export=download&id=0B9wE6h4m--wjR015M1RLZW45OEU) into the `chains` folder.
 
-# Documentation
+## Documentation
 
 https://rawgit.com/hcmlab/emovoice/master/docs/index.html
 
-# Credits
+## Credits
 * [SSI](http://openssi.net) -- Social Signal Interpretation Framework
 * [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) -- A Library for Support Vector Machines
 * [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) -- A Library for Large Linear Classification
@@ -26,7 +24,7 @@ https://rawgit.com/hcmlab/emovoice/master/docs/index.html
 * [Emo-DB](http://emodb.bilderbar.info/start.html) -- Berlin Database of Emotional Speech
 * [SoundNet](https://github.com/eborboihuc/SoundNet-tensorflow) -- TensorFlow implementation of "[SoundNet](http://soundnet.csail.mit.edu/)"
 
-# Reference
+## Reference
 
 ``` bibtex
 @inproceedings{Wagner13,
@@ -47,11 +45,11 @@ https://rawgit.com/hcmlab/emovoice/master/docs/index.html
  keywords = {multimodal fusion, open source framework, real-time pattern recognition, social signal processing},
 }
 ```
-# License
+## License
 
 The framework is released under LGPL (see LICENSE).
 Please note custom license files for the plug-ins (see LICENSE.*).
 
-# Author
+##  Author
 
 Johannes Wagner, Lab for Human Centered Multimedia, 2018
